@@ -27,6 +27,8 @@
 </div>
 
 <!-- 1. PSRR -->
+<img width="357" height="340" alt="image" src="https://github.com/user-attachments/assets/cc57504a-cb2f-4aa5-970c-16ec69b14e82" />
+
 <div class="card" id="psrr">
   <h2 class="qtitle"><span class="num-badge">1</span> PSRR (Power Supply Rejection Ratio)</h2>
   <div class="grid2">
@@ -59,6 +61,8 @@
 </div>
 
 <!-- 2. CMRR -->
+<img width="354" height="339" alt="image" src="https://github.com/user-attachments/assets/9aaf1f96-e2ff-4928-8ca2-7431991b9e1d" />
+
 <div class="card" id="cmrr">
   <h2 class="qtitle"><span class="num-badge">2</span> CMRR (Common Mode Rejection Ratio)</h2>
   <div class="grid2">
@@ -91,6 +95,8 @@
 </div>
 
 <!-- 3. GBW -->
+<img width="358" height="330" alt="image" src="https://github.com/user-attachments/assets/7af5bb0c-ffb8-4efe-aa1e-dca4309cf721" />
+
 <div class="card" id="gbw">
   <h2 class="qtitle"><span class="num-badge">3</span> GBW (Gain Bandwidth Product)</h2>
   <div class="grid2">
